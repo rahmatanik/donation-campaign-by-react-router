@@ -1,0 +1,139 @@
+[
+  {
+    "id": "10",
+    "image": "https://i.ibb.co/RHJYgV6/education3.jpg",
+    "title": "STEM Education Program",
+    "category_name": "Education",
+    "catBGColor": "#FFC3C5",
+    "CatCardBgColor": "#FFE3E4",
+    "CatTextAndButtonBGColor": "#FF444A",
+    "price": "220",
+    "description": "Promote STEM (Science, Technology, Engineering, and Mathematics) education among underprivileged students for a brighter and more innovative future."
+  },
+  {
+    "id": "3",
+    "image": "https://i.ibb.co/2t6DPNZ/clothing1.jpg",
+    "title": "Warmth for the Needy",
+    "category_name": "Clothing",
+    "catBGColor": "#D4EAC1",
+    "CatCardBgColor": "#EBF5E2",
+    "CatTextAndButtonBGColor": "#79C23F",
+    "price": "185",
+    "description": "Provide warm clothing to those in need during the cold season. Winter can be harsh, especially for individuals and families without adequate clothing to keep them warm. Your support can make a significant difference in their lives by ensuring they have access to warm and comfortable clothing during the cold months."
+  },
+
+  {
+    "id": "1",
+    "image": "https://i.ibb.co/r0k6BfL/health1.jpg",
+    "title": "Support Medical Research",
+    "category_name": "Health",
+    "catBGColor": "#ADC7FF",
+    "CatCardBgColor": "#D9E5FF",
+    "CatTextAndButtonBGColor": "#0052FF",
+    "price": "265",
+    "description": "Help fund critical medical research to improve lives and find cures. Your generous support is crucial in advancing our understanding of various diseases and medical conditions. By contributing to this cause, you become a partner in the quest for better healthcare outcomes and a brighter future for all. Our dedicated team of researchers and medical professionals work tirelessly to discover breakthrough treatments and interventions."
+  },
+
+  {
+    "id": "4",
+    "image": "https://i.ibb.co/nCtGj6z/food1.jpg",
+    "title": "Feed the Hungry",
+    "category_name": "Food",
+    "catBGColor": "#FCD1C3",
+    "CatCardBgColor": "#FDE9E3",
+    "CatTextAndButtonBGColor": "#F87E58",
+    "price": "275",
+    "description": "Provide meals and groceries to those facing hunger and food insecurity. Hunger is a pressing issue that affects millions of people around the world, including our local communities. Your support can help us alleviate hunger by providing essential meals and groceries to those in need."
+  },
+  {
+    "id": "5",
+    "image": "https://i.ibb.co/qmYSSbW/health2.jpg",
+    "title": "Children's Health Care",
+    "category_name": "Health",
+    "catBGColor": "#ADC7FF",
+    "CatCardBgColor": "#D9E5FF",
+    "CatTextAndButtonBGColor": "#0052FF",
+    "price": "265",
+    "description": "Support children's health care initiatives for a healthier future. Every child deserves access to quality healthcare and a chance for a healthy future. Your support can make a significant difference in the lives of children by ensuring they receive the medical care and attention they need."
+  },
+  {
+    "id": "7",
+    "image": "https://i.ibb.co/X7BZ6Nk/clothing2.jpg",
+    "title": "Homeless Shelter Aid",
+    "category_name": "Clothing",
+    "catBGColor": "#D4EAC1",
+    "CatCardBgColor": "#EBF5E2",
+    "CatTextAndButtonBGColor": "#79C23F",
+    "price": "195",
+    "description": "Provide assistance to homeless shelters and individuals in need. Homelessness is a pressing issue that affects many communities. Your support can help us provide essential supplies, shelter, and resources to homeless individuals and families."
+  },
+  {
+    "id": "2",
+    "image": "https://i.ibb.co/2MTWTGp/education1.jpg",
+    "title": "Empower Education",
+    "category_name": "Education",
+    "catBGColor": "#FFC3C5",
+    "CatCardBgColor": "#FFE3E4",
+    "CatTextAndButtonBGColor": "#FF444A",
+    "price": "210",
+    "description": "Support access to quality education for all, creating a brighter future. Education is a powerful tool that has the potential to transform lives and communities. Unfortunately, not everyone has equal access to educational opportunities. By contributing to this cause, you are helping us bridge the educational gap and provide resources to those in need."
+  },
+
+  {
+    "id": "8",
+    "image": "https://i.ibb.co/gy7xSJs/food2.jpg",
+    "title": "Emergency Food Relief",
+    "category_name": "Food",
+    "catBGColor": "#FCD1C3",
+    "CatCardBgColor": "#FDE9E3",
+    "CatTextAndButtonBGColor": "#F87E58",
+    "price": "260",
+    "description": "Support emergency food relief efforts to combat hunger crises. Your contribution will help us provide food assistance to individuals and families facing food insecurity during emergencies and disasters."
+  },
+
+  {
+    "id": "9",
+    "image": "https://i.ibb.co/tXkTkpy/health3.jpg",
+    "title": "Cancer Research Fund",
+    "category_name": "Health",
+    "catBGColor": "#ADC7FF",
+    "CatCardBgColor": "#D9E5FF",
+    "CatTextAndButtonBGColor": "#0052FF",
+    "price": "280",
+    "description": "Contribute to groundbreaking cancer research and treatments. Your support can make a significant impact on finding cures, improving treatments, and enhancing the quality of life for cancer patients."
+  },
+  {
+    "id": "12",
+    "image": "https://i.ibb.co/pXQ6Dyy/food3.jpg",
+    "title": "Community Food Pantry",
+    "category_name": "Food",
+    "catBGColor": "#FCD1C3",
+    "CatCardBgColor": "#FDE9E3",
+    "CatTextAndButtonBGColor": "#F87E58",
+    "price": "290",
+    "description": "Support a community food pantry that provides essential groceries to families in need. Your contribution can help combat hunger in your local community."
+  },
+
+  {
+    "id": "11",
+    "image": "https://i.ibb.co/9Vpm22Q/clothing3-1.jpg",
+    "title": "Winter Clothing Drive",
+    "category_name": "Clothing",
+    "catBGColor": "#D4EAC1",
+    "CatCardBgColor": "#EBF5E2",
+    "CatTextAndButtonBGColor": "#79C23F",
+    "price": "175",
+    "description": "Collect and distribute winter clothing to keep individuals and families warm during the cold season. Your support can make a significant difference."
+  },
+  {
+    "id": "6",
+    "image": "https://i.ibb.co/rdcfQY9/education2.jpg",
+    "title": "Scholarships for All",
+    "category_name": "Education",
+    "catBGColor": "#FFC3C5",
+    "CatCardBgColor": "#FFE3E4",
+    "CatTextAndButtonBGColor": "#FF444A",
+    "price": "210",
+    "description": "Promote STEM education among underprivileged students for a brighter future. Access to quality education is a fundamental right that can shape the future of individuals and communities. Your support can help us provide scholarships to underprivileged students, allowing them to pursue higher education and career opportunities."
+  }
+]
